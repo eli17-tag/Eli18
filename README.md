@@ -382,4 +382,3 @@ MIT License - Feel free to use this for personal or commercial projects.
 
 **Happy Worldbuilding! 🌍✨**
 
-For deployment instructions, see [DEPLOYMENT.md](DEPLOYMENT.md)
